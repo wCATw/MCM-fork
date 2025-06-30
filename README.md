@@ -1,3 +1,7 @@
+SIMPLE FIX. ONLY CHARACTER SWITCHING IS WORKING.
+
+
+ORIGINAL MOD:
 Steam workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2775613786
 
 # Description

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="Multiplayer crew manager" steamworkshopid="2775613786" corepackage="false" modversion="2.2.2" gameversion="1.7.7.0" >
+<contentpackage name="Multiplayer crew manager fixed" modversion="2.2.4" corepackage="False" steamworkshopid="2775613786" gameversion="1.8.8.1" expectedhash="82103B050FF8C1EAE06983D6F98C5B48" installtime="2025Y 01M 15D 14HR 43MIN 02SEC UTC">
   <Item file="%ModDir%/dummyitem.xml" />
   <Other file="%ModDir%/LICENSE" />
   <Other file="%ModDir%/README.md" />
